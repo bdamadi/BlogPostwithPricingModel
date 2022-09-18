@@ -21,7 +21,7 @@ pip install -U scikit-learn scipy matplotlib
 
 The project is based on the following structure:
 
-- analysis.ipynb. is a python program built using Jupyter notebook; it includes the code used for data analysis
+- [BlogPost-with-pricing-model.ipynb](BlogPost-with-pricing-model.ipynb). is a python program built using Jupyter notebook; it includes the code used for data analysis
 - Boston_listings.csv. includes data retrieved from Kaggle Boston Airbnb Open Data.
 - Boston_reviews.csv. includes data retrieved from Boston Airbnb Open Data.
 
