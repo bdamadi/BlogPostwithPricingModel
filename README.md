@@ -52,6 +52,6 @@ The key motivations for this project are captured in the following questions:
 
 ## References
 
-The main findings are presented [github](https://TBD)
+The main findings are presented [github](https://github.com/bdamadi/BlogPostwithPricingModel/blob/master/BlogPost-with-pricing-model.ipynb)
 
 The used data in this project is retrieved from [kaggle](https://www.kaggle.com/datasets/airbnb/boston)
